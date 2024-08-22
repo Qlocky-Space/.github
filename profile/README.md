@@ -20,3 +20,6 @@ Qlocky is designed for those who value precision, convenience, and integration. 
 Explore our repository to see how Qlocky is built, contribute to its development, or get involved in the community. We’re excited to have you on this journey with us!
 
 Wake up smarter with Qlocky.
+
+## Documentation
+Documentation and technical resources for the Qlocky, including setup procedures, API references, hardware specifications, and integration details. Essential information for development, customization, and optimization is provided in [Qlocky Documentation](https://qlocky.notion.site/Qlocky-Wiki-b2c1fdab6b84481caad0c45b414d6cd8)
